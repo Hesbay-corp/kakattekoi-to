@@ -1,1 +1,0 @@
-const t={name:"Kakatte Koi.gg"},o={"account-status":{connected:"Connecté"},toast:{"error-title":"{nb, plural, =1 {Erreur} other {Erreurs}}"}},e={app:t,component:o};export{t as app,o as component,e as default};
